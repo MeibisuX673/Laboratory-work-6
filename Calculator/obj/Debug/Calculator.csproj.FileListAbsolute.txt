@@ -1,0 +1,19 @@
+C:\Users\А220-\Documents\Visual Studio 2017\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\А220-\Documents\Visual Studio 2017\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\А220-\Documents\Visual Studio 2017\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\А220-\Documents\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\А220-\Documents\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\А220-\Documents\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\А220-\Documents\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\А220-\Documents\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\А220-\Documents\Visual Studio 2017\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Alex\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Alex\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Alex\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Alex\Desktop\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Alex\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Alex\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Alex\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Alex\Desktop\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
